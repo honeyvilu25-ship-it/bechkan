@@ -1,0 +1,6 @@
+{
+  "name": "BICHKAND",
+  "description": "Multi-vendor e-commerce marketplace for Pakistan with Buyer, Seller, and Admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
